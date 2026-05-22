@@ -1,0 +1,18 @@
+﻿# Wrangler
+.wrangler/
+
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor junk
+.vscode/
+.idea/
+
+# Logs
+*.log
