@@ -1,0 +1,10 @@
+name = "chuckeke"
+compatibility_date = "2026-05-22"
+
+[build]
+command = "rm -rf public && mkdir -p public && cp -r pages/. public/ && cp -r assets/. public/"
+
+[assets]
+directory = "./public"
+html_handling = "auto-trailing-slash"
+not_found_handling = "none"
