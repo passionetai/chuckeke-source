@@ -34,7 +34,6 @@ Books
   * ![From Revelation to Revolution](/images/book1.jpg) Entrepreneurship Â· Faith From Revelation to Revolution iClouds of Witnesses for Developing and Driving Your Mind to Career and Business Success. Oct 2021
   * ![The Legacy of Atiku Abubakar on Nation-Building](/images/book3.jpg) Political biography The Legacy of Atiku Abubakar on Nation-Building Articulations on Restructuring, Industrialization and Economic Development. Feb 2019
   * ![Breakthroughs Through Breaking the Rules](/images/book2.jpg) Entrepreneurship Â· Faith Breakthroughs Through Breaking the Rules The 13 Unbreakable Pillars of Ted Turner's and Oprah Winfrey's Successes in the Diary of the Filmmaker. Sept 2024
-  * [ Davido â A Cultural Force for National Unity Honor book Â· 2026 Davido â A Cultural Force for National Unity A statesmanlike tribute, unveiling on Independence Day. Not for sale. Coming July 4, 2026 ](/projects/davido-honor-book)
 
 
 

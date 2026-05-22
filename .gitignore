@@ -1,5 +1,6 @@
 ﻿# Wrangler
 .wrangler/
+public/
 
 # OS junk
 Thumbs.db

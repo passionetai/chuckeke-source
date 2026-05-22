@@ -10,18 +10,6 @@ Upcoming
 
 ## On the calendar.
 
-  * Book unveiling
-
-July 4, 2026
-
-### Davido â A Cultural Force for National Unity.
-
-Quincy, Massachusetts
-
-Independence Day launch of the fourth Eke title. Press by invitation.
-
-[More â](/projects/davido-honor-book)
-
   * Lecture
 
 June 2026
