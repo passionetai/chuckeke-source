@@ -8,30 +8,7 @@ Boston Â· Delta State Â· the world
 
 Author, filmmaker, ordained reverend, two-term DESOPADEC commissioner, and Eminent Peace Ambassador of the IAWPA. 
 
-[Read the biography](/about) [ The Davido honor book â ](/projects/davido-honor-book)
-
-![](/images/davido-3.webp)
-
-Featured project
-
-##  Davido â  
-A Cultural Force for National Unity. 
-
-A statesmanlike tribute to the Afrobeats artist whose music has carried Nigerian identity to a global audience. Unveiled on Independence Day. 
-
-Honor book Â· 2026
-
-Davido: A Cultural Force for National Unity 
-
-Unveiling
-    July 4, 2026
-
-Venue
-    Quincy, MA
-
-Not for sale. Proceeds and copies are donated to the David Adeleke Foundation, schools, and orphanages. 
-
-[ Read about the project â ](/projects/davido-honor-book)
+[Read the biography](/about)
 
 Where to next
 
@@ -57,8 +34,6 @@ Institutions, over time.
   * [ DAST Foundation â ](https://drugabusefoundation.org)
   * Wings of the Word
   * [ Anioma Association of Massachusetts â ](/about#community)
-
-
 
 Latest news
 
