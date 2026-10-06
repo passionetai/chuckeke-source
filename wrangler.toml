@@ -1,5 +1,7 @@
 name = "chuckeke"
 compatibility_date = "2026-05-22"
+workers_dev = true
+preview_urls = true
 
 [build]
 command = "bash build.sh"
