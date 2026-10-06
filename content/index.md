@@ -14,9 +14,9 @@ Where to next
 
 ##  A life across three vocations.
 
-[ The biography A statesman, a storyteller, a servant. Born in Nigeria, educated at Harvard, ordained in Boston, returned to Delta State to serve. Read more â ](/about) [ ![Chukwudi Chuck Eke](/images/portrait.jpeg) Chuck Eke â the biography ](/about)
+[ The biography A statesman, a storyteller, a servant. Born in Nigeria, educated at Harvard, ordained in Boston, returned to Delta State to serve. Read more â ](/about) [ ![Chukwudi Chuck Eke](/images/founder.jpeg) Chuck Eke â the biography ](/about)
 
-[ The work Four books, one feature film, one magazine. Biographies of Atiku Abubakar and Peter Obi, two entrepreneurship volumes, and Rainbow: Living Your Dream. Read more â ](/work)
+[ The work Two books, one feature film, one magazine. Two entrepreneurship volumes, the feature film Rainbow: Living Your Dream, and Word Bank International Magazine. Read more â ](/work)
 
 [ Public service Twelve years on the ground in Delta State. Two terms at DESOPADEC; senior special assistant to the Governor across two portfolios. Read more â ](/public-service)
 

@@ -2,7 +2,7 @@ name = "chuckeke"
 compatibility_date = "2026-05-22"
 
 [build]
-command = "rm -rf public && mkdir -p public && cp -r pages/. public/ && cp -r assets/. public/"
+command = "bash build.sh"
 
 [assets]
 directory = "./public"

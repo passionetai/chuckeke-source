@@ -20,7 +20,7 @@ Recent
 
 ## Earlier announcements.
 
-  * ![Chair, Rotary Foundation â RCOGI.](/images/portrait.jpeg) Service December 12, 2025 Chair, Rotary Foundation â RCOGI. Appointed Chair of the Rotary Foundation by Rotary Club of Global Impact, Chicago.
+  * ![Chair, Rotary Foundation â RCOGI.](/images/founder.jpeg) Service December 12, 2025 Chair, Rotary Foundation â RCOGI. Appointed Chair of the Rotary Foundation by Rotary Club of Global Impact, Chicago.
   * ![With U.S. Senator Ed Markey.](/images/image58.jpg) Politics August 2024 With U.S. Senator Ed Markey. Civic engagement in Massachusetts during the campaign cycle for VP Kamala Harris.
   * [ ![Guest speaker, Rotary Club of Global Impact.](/images/image14.jpg) Speaking November 26, 2024 Guest speaker, Rotary Club of Global Impact. "The Purpose and Global Importance of the Rainbow Film in Combating Drug Abuse, Human Trafficking and Illicit Sex Trade." ](https://www.youtube.com/watch?v=NgxuT8jbmxA)
   * ![Breakthroughs Through Breaking the Rules â published.](/images/book2.jpg) Books September 2024 Breakthroughs Through Breaking the Rules â published. The 13 unbreakable pillars of Ted Turner's and Oprah Winfrey's successes, in the diary of the filmmaker.

@@ -87,9 +87,9 @@ Chuck presents his BREAKTHROUGH book to former US President Bill Clinton.
 > 
 > â Chuck Eke
 
-![Chuck on Igbo Day, Boston, in cultural Aboh Kingdom regalia](/images/image53.png)
+![Ambassador (Rev.) Chukwudi Chuck Eke](/images/founder.jpeg)
 
-Igbo Day 2024 â Boston, MA. 
+Ambassador (Rev.) Chukwudi Chuck Eke. 
 
 Community leadership
 
