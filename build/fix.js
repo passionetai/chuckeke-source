@@ -105,6 +105,20 @@
     });
   }
 
+  // Mobile menu: the page's own script opens and closes it. This keeps the button's
+  // label in step and lets Escape close it.
+  function initMobileMenu() {
+    var btn = document.getElementById('nav-toggle');
+    var menu = document.getElementById('mobile-menu');
+    if (!btn || !menu) return;
+    function isOpen() { return btn.getAttribute('aria-expanded') === 'true'; }
+    function sync() { btn.setAttribute('aria-label', isOpen() ? 'Close menu' : 'Open menu'); }
+    new MutationObserver(sync).observe(btn, { attributes: true, attributeFilter: ['aria-expanded'] });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && isOpen()) { btn.click(); btn.focus(); }
+    });
+  }
+
   document.addEventListener('DOMContentLoaded', function () {
     // The page's own scripts (nav, mobile menu, hero video, counters, slideshow,
     // copy buttons, contact form) listen for this on document; ClientRouter used to send it.
@@ -116,5 +130,6 @@
     initReveal();
     initNavTheme();
     initConstellation();
+    initMobileMenu();
   });
 })();
