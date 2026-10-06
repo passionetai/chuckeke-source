@@ -4,7 +4,7 @@ Press kit
 
 #  Bios, headshots, approved titles.
 
-Copy and paste. For interview requests or higher-resolution assets, [contact the press desk â](/contact?intent=press). 
+Copy and paste. For interview requests or higher-resolution assets, [contact the press desk →](/contact?intent=press). 
 
 Approved titles
 
@@ -12,7 +12,7 @@ Approved titles
 
   * Ambassador (Rev.) Chukwudi Chuck Eke 
   * Eminent Peace Ambassador, IAWPA 
-  * Chair, Rotary Foundation â Rotary Club of Global Impact 
+  * Chair, Rotary Foundation — Rotary Club of Global Impact 
   * Founder & Editor-in-Chief, Word Bank International Magazine 
   * Executive Producer, Rainbow: Living Your Dream 
 
@@ -22,25 +22,25 @@ Bio
 
 ## Three lengths.
 
-Short â 50 words
+Short — 50 words
 
-Copy â
+Copy →
 
 Copied.
 
 Chukwudi "Chuck" Eke is a Harvard-educated author, filmmaker and ordained reverend. A two-term Commissioner in Delta State, Nigeria, he was appointed Eminent Peace Ambassador by the IAWPA in January 2026. He is the author of four books and the executive producer of Rainbow: Living Your Dream. 
 
-Medium â 120 words
+Medium — 120 words
 
-Copy â
+Copy →
 
 Copied.
 
 Ambassador (Rev.) Chukwudi "Chuck" Eke is a Nigerian-American statesman, author and filmmaker based in Boston, Massachusetts. Born in Aboh, Delta State, and educated at Harvard University (Class of 2005), he served two terms as Commissioner in the Delta State Oil Producing Areas Development Commission (DESOPADEC) and twice as Senior Special Assistant to the Governor of Delta State. He is the author of four books and the executive producer of the feature film Rainbow: Living Your Dream. In January 2026 he was appointed Eminent Peace Ambassador by the International Association of World Peace Advocates and consecrated in Boston by Rev. Father Tom. 
 
-Long â 250 words
+Long — 250 words
 
-Copy â
+Copy →
 
 Copied.
 
@@ -50,23 +50,23 @@ Headshots
 
 ## High-resolution on request.
 
-  * ![Chuck Eke â formal portrait, navy suit](/images/image26.jpg)
+  * ![Chuck Eke — formal portrait, navy suit](/images/image26.jpg)
 
-Formal portrait Â· navy 
+Formal portrait · navy 
 
-Photo Â· Rainbow Star Films
+Photo · Rainbow Star Films
 
-  * ![Chuck Eke â portrait](/images/founder.jpeg)
+  * ![Chuck Eke — portrait](/images/founder.jpeg)
 
 Editorial portrait 
 
-Photo Â· archive
+Photo · archive
 
-  * ![Chuck Eke â with Word Bank International Magazine](/images/image20.jpg)
+  * ![Chuck Eke — with Word Bank International Magazine](/images/image20.jpg)
 
 On set with Word Bank Magazine 
 
-Photo Â· Word Bank
+Photo · Word Bank
 
 
 
@@ -75,4 +75,4 @@ Need print-ready files?
 
 High-res headshots and press releases on request.
 
-[Request the kit â](/contact?intent=press)
+[Request the kit →](/contact?intent=press)

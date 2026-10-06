@@ -4,7 +4,7 @@ Events
 
 #  Where Chuck has been, and what's next.
 
-Public engagements selected from the last decade of work â plenaries, lectures, investitures, and book unveilings. Press inquiries route through [the contact page](/contact?intent=press). 
+Public engagements selected from the last decade of work — plenaries, lectures, investitures, and book unveilings. Press inquiries route through [the contact page](/contact?intent=press). 
 
 Upcoming
 
@@ -14,7 +14,7 @@ Upcoming
 
 June 2026
 
-### Rotary Foundation â Annual Address.
+### Rotary Foundation — Annual Address.
 
 Chicago, Illinois
 
@@ -29,7 +29,7 @@ Past engagements
 
   * ![Eminent Peace Ambassador, IAWPA.](/images/iawpa.jpeg)
 
-Jan 17, 2026 Â· West Roxbury, Boston 
+Jan 17, 2026 · West Roxbury, Boston 
 
 Investiture
 
@@ -39,17 +39,17 @@ Consecrated by Rev. Father Tom alongside the UN Peace Volunteers Worldwide.
 
   * ![Chukwudi Chuck Eke](/images/founder.jpeg)
 
-Dec 12, 2024 Â· Chicago, Illinois 
+Dec 12, 2024 · Chicago, Illinois 
 
 Appointment
 
-Chair, Rotary Foundation â RCOGI.
+Chair, Rotary Foundation — RCOGI.
 
 Announced by Patricia Freudenberg, President of Rotary Club of Global Impact.
 
   * ![Guest speaker, Rotary Club of Global Impact.](/images/image14.jpg)
 
-Nov 26, 2024 Â· Chicago, Illinois 
+Nov 26, 2024 · Chicago, Illinois 
 
 Speaking
 
@@ -59,7 +59,7 @@ On the Rainbow film and the global response to drug abuse and trafficking.
 
   * ![Democratic National Convention.](/images/image11_1.jpg)
 
-Aug 19â21, 2024 Â· Chicago, Illinois 
+Aug 19–21, 2024 · Chicago, Illinois 
 
 Convention
 
@@ -69,7 +69,7 @@ Three-day participation; subsequent campaign work in MA, CT, CA, NH.
 
   * ![VPI Annual Plenary.](/images/image44-p-500.jpg)
 
-May 2023 Â· London, United Kingdom 
+May 2023 · London, United Kingdom 
 
 Plenary
 
@@ -79,7 +79,7 @@ Represented FOCONE on Voluntary Principles for Security and Human Rights.
 
   * ![VPI Annual Plenary.](/images/image58.jpg)
 
-May 2022 Â· Toronto, Canada 
+May 2022 · Toronto, Canada 
 
 Plenary
 
@@ -89,7 +89,7 @@ On the panel for human-rights frameworks in extractive industries.
 
   * ![United Nations Human Rights Day.](/images/image27.jpg)
 
-December 2019 Â· Asaba, Delta State 
+December 2019 · Asaba, Delta State 
 
 Convening
 
@@ -99,7 +99,7 @@ Hosted in collaboration with Nigerian non-governmental organizations.
 
   * ![6th UN Forum on Business and Human Rights.](/images/image35.jpg)
 
-November 2017 Â· Geneva, Switzerland 
+November 2017 · Geneva, Switzerland 
 
 Forum
 

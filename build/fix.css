@@ -1,0 +1,69 @@
+/* Pull quotes: a contained block with a gold rule, instead of hanging off the column edge. */
+.pull-quote {
+  max-width: 760px;
+  margin: 4rem auto 1rem;
+  padding: 0.5rem 0 0.75rem 1.5rem;
+  border-left: 2px solid var(--c-gold);
+}
+@media (min-width: 768px) {
+  .pull-quote { padding-left: 2.5rem; }
+}
+
+/* About-page constellation: let long side labels show instead of being cut off. */
+.constellation-svg svg { overflow: visible; }
+
+/* Homepage hero: start below the fixed nav so the video never runs under the menu,
+   and grow with its content instead of a fixed height (the headline used to spill
+   up under the nav on short, wide windows). */
+main .hero[class] { margin-top: 4rem; height: auto; min-height: 80svh; }
+main .hero[class] .hero-content { min-height: inherit; padding-top: 3rem; }
+main .hero .text-hero { font-size: clamp(3rem, min(8vw, 13vh), 9rem); }
+@media (min-width: 768px) {
+  main .hero[class] { margin-top: 5rem; min-height: calc(100svh - 5rem); }
+  main .hero[class] .hero-content { padding-top: 4rem; }
+}
+
+/* Nav over navy sections: near-solid, so nothing behind it shows through. */
+#site-nav.is-dark { background: rgba(10, 37, 64, 0.94); }
+
+/* Mobile menu. The nav's backdrop-filter turns it into the containing block for
+   the fixed menu, which then only covers the 68px bar and the links spill over
+   the page. Drop the filter while the menu is open so it covers the viewport. */
+body.menu-open #site-nav {
+  background: transparent;
+  border-bottom-color: transparent;
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+}
+body.menu-open #nav-toggle { color: var(--c-cream); }
+/* Keep the logo and close button above the open menu (it sits at z-40), so it can be closed by tap. */
+#site-nav > div:first-child { position: relative; z-index: 50; }
+#mobile-menu > div:first-child { background: rgba(10, 37, 64, 0.97); }
+body.menu-open .nav-logo { filter: brightness(0) invert(1); }
+
+/* Menu button: 44px touch target, and the two bars turn into an X when open. */
+@media (max-width: 767px) {
+  #nav-toggle {
+    min-width: 44px;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+#nav-toggle svg { overflow: visible; }
+#nav-toggle line {
+  transform-box: view-box;
+  transform-origin: 11px 7px;
+  transition: transform 0.35s var(--ease-editorial);
+}
+#nav-toggle[aria-expanded="true"] line:first-of-type { transform: rotate(45deg) translateY(6px); }
+#nav-toggle[aria-expanded="true"] line:last-of-type { transform: rotate(-45deg) translateY(-6px); }
+
+/* Bigger tap areas on phones for the logo and small text links. Vertical padding on
+   inline links grows the tap area without moving the text. */
+#site-nav a[aria-label] { min-height: 44px; }
+@media (max-width: 767px) {
+  footer a,
+  main li a:not(.block) { padding-block: 0.35rem; }
+}
