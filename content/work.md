@@ -2,10 +2,10 @@
 
 The work
 
-#  Four books, one film,  
+#  Two books, one film,  
 one magazine. 
 
-Two political biographies, two entrepreneurship volumes, one feature film shot across six cities and two continents, and an inspirational publication in print and online. Read on, or jump to films Â· books Â· publishing. 
+Two entrepreneurship volumes, one feature film shot across six cities and two continents, and an inspirational publication in print and online. Read on, or jump to films Â· books Â· publishing. 
 
 Films
 
@@ -29,10 +29,9 @@ Cities
 
 Books
 
-##  Two biographies, two pillars, a fourth in the wings. 
+##  Two books, two pillars: faith and enterprise. 
 
   * ![From Revelation to Revolution](/images/book1.jpg) Entrepreneurship Â· Faith From Revelation to Revolution iClouds of Witnesses for Developing and Driving Your Mind to Career and Business Success. Oct 2021
-  * ![The Legacy of Atiku Abubakar on Nation-Building](/images/book3.jpg) Political biography The Legacy of Atiku Abubakar on Nation-Building Articulations on Restructuring, Industrialization and Economic Development. Feb 2019
   * ![Breakthroughs Through Breaking the Rules](/images/book2.jpg) Entrepreneurship Â· Faith Breakthroughs Through Breaking the Rules The 13 Unbreakable Pillars of Ted Turner's and Oprah Winfrey's Successes in the Diary of the Filmmaker. Sept 2024
 
 

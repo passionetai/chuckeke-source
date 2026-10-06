@@ -36,7 +36,7 @@ Copy â
 
 Copied.
 
-Ambassador (Rev.) Chukwudi "Chuck" Eke is a Nigerian-American statesman, author and filmmaker based in Boston, Massachusetts. Born in Aboh, Delta State, and educated at Harvard University (Class of 2005), he served two terms as Commissioner in the Delta State Oil Producing Areas Development Commission (DESOPADEC) and twice as Senior Special Assistant to the Governor of Delta State. He is the author of four books â including biographies of Atiku Abubakar (2019) and Peter Obi (2022) â and the executive producer of the feature film Rainbow: Living Your Dream. In January 2026 he was appointed Eminent Peace Ambassador by the International Association of World Peace Advocates and consecrated in Boston by Rev. Father Tom. 
+Ambassador (Rev.) Chukwudi "Chuck" Eke is a Nigerian-American statesman, author and filmmaker based in Boston, Massachusetts. Born in Aboh, Delta State, and educated at Harvard University (Class of 2005), he served two terms as Commissioner in the Delta State Oil Producing Areas Development Commission (DESOPADEC) and twice as Senior Special Assistant to the Governor of Delta State. He is the author of four books â including a biography of Atiku Abubakar (2019) â and the executive producer of the feature film Rainbow: Living Your Dream. In January 2026 he was appointed Eminent Peace Ambassador by the International Association of World Peace Advocates and consecrated in Boston by Rev. Father Tom. 
 
 Long â 250 words
 
@@ -56,7 +56,7 @@ Formal portrait Â· navy
 
 Photo Â· Rainbow Star Films
 
-  * ![Chuck Eke â informal portrait](/images/image29.jpg)
+  * ![Chuck Eke â portrait](/images/founder.jpeg)
 
 Editorial portrait 
 

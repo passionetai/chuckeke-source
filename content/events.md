@@ -37,7 +37,7 @@ Eminent Peace Ambassador, IAWPA.
 
 Consecrated by Rev. Father Tom alongside the UN Peace Volunteers Worldwide.
 
-  * ![Chair, Rotary Foundation â RCOGI.](/images/image28.png)
+  * ![Chukwudi Chuck Eke](/images/founder.jpeg)
 
 Dec 12, 2024 Â· Chicago, Illinois 
 
